@@ -52,9 +52,9 @@ p {
  
    .container {
         width: 70%;
-    padding: 20px;
+    padding: 30px;
     border: solid black;
-        margin: 10px auto;
+        margin: 10px 10px;
         background: #E6E6FA;
         display: flex;
         flex-direction: row;
